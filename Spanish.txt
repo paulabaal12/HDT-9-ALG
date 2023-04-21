@@ -1,0 +1,22 @@
+age, edad
+air, aire 
+bone, hueso
+call, llamada
+earth, tierra
+money, dinero
+honey, miel
+ice cream, helado
+dessert, postre
+dress, vestido
+egg, hueso
+example, ejemplo
+energy, energia
+century, siglo
+blood, sangre 
+cardigan, cardigan
+august, agosto
+eye, ojo
+corn, maiz
+cotton, algodon
+cat, gato
+dog, perro
