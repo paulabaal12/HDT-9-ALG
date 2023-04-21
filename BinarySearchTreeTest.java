@@ -1,5 +1,5 @@
 import static org.junit.jupiter.api.Assertions.*;
-
+//Paula Rebeca Barillas 22764
 import org.junit.jupiter.api.Test;
 
 class BinarySearchTreeTest {
@@ -38,7 +38,15 @@ class BinarySearchTreeTest {
         
         EjemploRecorrido<String> miRecorrido = new EjemploRecorrido<String>();
         myBST.inOrder(miRecorrido);
-
+        /*
+        assertEquals("diez", miRecorrido.miLista.get(0));
+        assertEquals("veinte", miRecorrido.miLista.get(1));
+        assertEquals("treinta", miRecorrido.miLista.get(2));
+        assertEquals("cincuenta", miRecorrido.miLista.get(3));
+        assertEquals("sesenta", miRecorrido.miLista.get(4));
+        assertEquals("ochenta", miRecorrido.miLista.get(5));
+        assertEquals("noventa", miRecorrido.miLista.get(6));
+        */
 	}
 	
 
@@ -99,7 +107,14 @@ class BinarySearchTreeTest {
         EjemploRecorrido<String> miRecorrido = new EjemploRecorrido<String>();
         myBST.inOrder(miRecorrido);
         
-
+        /*
+        assertEquals("diez", miRecorrido.miLista.get(0));
+        assertEquals("veinte", miRecorrido.miLista.get(1));
+        assertEquals("treinta", miRecorrido.miLista.get(2));
+        assertEquals("cincuenta", miRecorrido.miLista.get(3));
+        assertEquals("sesenta", miRecorrido.miLista.get(4));
+        assertEquals("ochenta", miRecorrido.miLista.get(5));
+        */
 	}
 	
 	@Test
@@ -121,7 +136,14 @@ class BinarySearchTreeTest {
         EjemploRecorrido<String> miRecorrido = new EjemploRecorrido<String>();
         myBST.inOrder(miRecorrido);
         
- 
+        /*
+        assertEquals("diez", miRecorrido.miLista.get(0));
+        assertEquals("veinte", miRecorrido.miLista.get(1));
+        assertEquals("treinta", miRecorrido.miLista.get(2));
+        assertEquals("sesenta", miRecorrido.miLista.get(3));
+        assertEquals("ochenta", miRecorrido.miLista.get(4));
+        assertEquals("noventa", miRecorrido.miLista.get(5));
+        */
 	}
 	
 	
@@ -144,7 +166,14 @@ class BinarySearchTreeTest {
         EjemploRecorrido<String> miRecorrido = new EjemploRecorrido<String>();
         myBST.inOrder(miRecorrido);
         
-      
+        /*
+        assertEquals("diez", miRecorrido.miLista.get(0));
+        assertEquals("treinta", miRecorrido.miLista.get(1));
+        assertEquals("cincuenta", miRecorrido.miLista.get(2));
+        assertEquals("sesenta", miRecorrido.miLista.get(3));
+        assertEquals("ochenta", miRecorrido.miLista.get(4));
+        assertEquals("noventa", miRecorrido.miLista.get(5));
+        */
 	}
 
 
